@@ -1,6 +1,10 @@
 body {
     padding: 0px;
-    margin-top: -50px;
+    /*margin-top: -50px;*/
     min-height: 100vh;
     min-width: 100vh;
     background-color: #6868ac;}
+
+.escritorio>h1{
+    text-align: center;
+}
