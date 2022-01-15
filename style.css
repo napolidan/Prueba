@@ -7,4 +7,11 @@ body {
 
 .escritorio>h1{
     text-align: center;
+    font-size: 8vw;
+}
+
+.grid-container{
+    position: absolute;
+    top: 50%;
+    margin-top: -25px;
 }
