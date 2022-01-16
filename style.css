@@ -1,5 +1,6 @@
 body {
-    background-image: url("C:\Users\Daniel\Downloads\LOLBACK.jpg");
+    background-color:#130c36;
+    /*background-image: url("C:\Users\Daniel\Downloads\LOLBACK.jpg");*/
     padding: 0px;
     /*margin-top: -50px;*/
     min-height: 100vh;
@@ -41,6 +42,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: brown;
-    width: 30%;
+    /*background-color: brown;*/
+}
+
+.wrapper>div>img{
+    width:60%;
 }
