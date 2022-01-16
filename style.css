@@ -39,6 +39,7 @@ body {
   }
 
 .wrapper>div{
+    height:0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -46,5 +47,5 @@ body {
 }
 
 .wrapper>div>img{
-    width:1vw*1vh;
+    width:60%;
 }
